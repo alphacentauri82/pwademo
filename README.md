@@ -7,5 +7,5 @@
 ```bash
 $ npm run serve # For Dev Env
 
-$ npm run dist # Build for Production
+$ npm run build # Build for Production
 ```
